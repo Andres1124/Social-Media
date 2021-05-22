@@ -1,0 +1,4 @@
+Esto es dashboard de redes sociales donde se muestra los datos (seguidores, likes, visitas a la pagina).
+El fin de este dashboard es llevar como un tipo de gestion de redes sociales para asií llevar el seguimeinto del crecimiento de las mismas,
+con esto se puede deducir si ha sido eficiente el manejo de redes sociales y cómo se podria impactar de un modo que todo aumente positivamente.
+El dashboard está hecho para que el usuario se sienta comodo con lo que ve y con la manera de interactuar de esta misma.
